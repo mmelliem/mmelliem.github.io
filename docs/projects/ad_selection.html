@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Melanie Medina – Project Portfolio</title>
+<title>Audio Description Selection – Project Portfolio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,19 +23,19 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1e2c905e5e764bf485b5aca873d4bbd1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-1e2c905e5e764bf485b5aca873d4bbd1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -53,7 +53,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -63,9 +63,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Project Portfolio</span>
     </a>
   </div>
@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
 </ul>
@@ -95,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Melanie Medina</h1>
+<h1 class="title">Audio Description Selection</h1>
 </div>
 
 
@@ -112,34 +112,66 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="profile-header">
-<p><img src="assets/profile_photo.jpeg" class="img-fluid" style="border-radius: 50%;" width="150"></p>
-<section id="about" class="level3 profile-text">
-<h3 class="anchored" data-anchor-id="about">About</h3>
-<p>Data science student at a Northwestern University. I build data tools and models. Interested in applied ML, analytics, and automation.</p>
-<p><a href="https://github.com/mmelliem">GitHub</a> • <a href="mailto:melaniemedina2028@u.northwestern.edu">Email</a></p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>Audio descriptions (AD) narrate visual events in video for blind and low vision audiences. With open-source AD generation models now being available, the challenge is <em>selecting</em> the best candidate description from a pool. This project explored whether lightweight supervised ML models can automatically select high-quality AI-generated ADs using only textual features.</p>
+<p><a href="../assets/ad_selection/demo_vid.mp4">Video demo</a>: compares ground truth human-written audio description, “GT AD”, vs.&nbsp;AI-generated audio description, “AI AD”. Shows the lightweight selector model I built working on TV scenes.</p>
 </section>
-</div>
-<hr>
-<section id="projects" class="level2">
-<h2 class="anchored" data-anchor-id="projects">Projects</h2>
-<div class="grid">
-<div class="g-col-12 g-col-md-6">
-<p><a href="./projects/ad_selection.html"><img src="assets/ad_selection/demo_thumbnail.png" class="img-fluid"></a></p>
-<p><strong><a href="./projects/ad_selection.html">Audio Description Selection</a></strong></p>
-<p>Using lightweight a ML model to select the best AI-generated audio descriptions for TV scenes.</p>
-</div>
-<div class="g-col-12 g-col-md-6">
-<p><a href="./projects/supervised_vs_ssl.html"><img src="assets/supervised_vs_ssl/thumbnail_results.png" class="img-fluid"></a></p>
-<p><strong><a href="./projects/supervised_vs_ssl.html">Supervised vs Self-Supervised Learning on Audio</a></strong></p>
-<p>Comparing deep neural networks on how they process speech and music classification tasks.</p>
-</div>
-<div class="g-col-12 g-col-md-6">
-<p><a href="./projects/block.html"><img src="assets/block/required-fields-template.png" class="img-fluid"></a></p>
-<p><strong><a href="./projects/block.html">Block Museum Calendar Automation</a></strong></p>
-<p>Automated Outlook calendar export pipeline using Power Automate.</p>
-</div>
-</div>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
+<ul>
+<li>Generated 5 candidate ADs per scene across 2,983 TV scenes (Friends, The Big Bang Theory) using Qwen2-VL-7B (VLM) and LLaMA-3-8B (LLM) on a HPCC</li>
+<li>Extracted 9 textual features from each candidate: token count, action verb density, pronoun ratios, type-token ratio, consensus score, etc.</li>
+<li>Trained classification and regression models (logistic regression, random forest, XGBoost) with 5-fold cross-validation</li>
+<li>Evaluated two quality metrics as response variables: embedding similarity (Q1) and action score matching (Q2)</li>
+</ul>
+</section>
+<section id="results" class="level2">
+<h2 class="anchored" data-anchor-id="results">Results</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Model</th>
+<th>Q1 Accuracy</th>
+<th>Q2 Accuracy</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Baseline (random selection)</td>
+<td>20.1%</td>
+<td>20.1%</td>
+</tr>
+<tr class="even">
+<td>Logistic Regression</td>
+<td>25.0%</td>
+<td>33.7% ✓</td>
+</tr>
+<tr class="odd">
+<td>Random Forest</td>
+<td>23.8%</td>
+<td>31.0%</td>
+</tr>
+<tr class="even">
+<td>XGBoost</td>
+<td>25.5%</td>
+<td>31.8%</td>
+</tr>
+</tbody>
+</table>
+<p>Logistic regression achieved 33.7% accuracy on action score selection, which is a 13.6 percentage point improvement over a baseline of random selection. The most important features were action verb count, pronoun-to-noun ratio, and consensus score. More details about these features are available in the code repository.</p>
+</section>
+<section id="tools-used" class="level2">
+<h2 class="anchored" data-anchor-id="tools-used">Tools Used</h2>
+<p>Python • HPCC + Slurm • spaCy • sentence-transformers • scikit-learn</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<ul>
+<li><a href="https://github.com/mmelliem/AD_selection">GitHub Repository</a></li>
+<li><a href="../assets/ad_selection/proposal.pdf">Research Proposal</a></li>
+<li><a href="../assets/ad_selection/final_report.pdf">Final Report</a></li>
+</ul>
 
 
 </section>

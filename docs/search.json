@@ -1,170 +1,135 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
-  },
-  {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Melanie Medina",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\nI can automatically generate a neat publication list from an Excel file and enabling categories and filters.\nCheck Quarto Academic Website Examples and Tips and README.md for more detailed instructions.\n\n\n\nResearcher, Univerisity\nConsultant, Company\nIntern, Institute\n\n\n\n\n\nPhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
+    "text": "Data science student at a Northwestern University. I build data tools and models. Interested in applied ML, analytics, and automation.\nGitHub • Email"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Melanie Medina",
+    "section": "Projects",
+    "text": "Projects\n\n\n\nAudio Description Selection\nUsing lightweight a ML model to select the best AI-generated audio descriptions for TV scenes.\n\n\n\nSupervised vs Self-Supervised Learning on Audio\nComparing deep neural networks on how they process speech and music classification tasks.\n\n\n\nBlock Museum Calendar Automation\nAutomated Outlook calendar export pipeline using Power Automate."
+  },
+  {
+    "objectID": "projects/supervised_vs_ssl.html",
+    "href": "projects/supervised_vs_ssl.html",
+    "title": "Supervised vs Self-Supervised Learning on Audio",
     "section": "",
-    "text": "Researcher, Univerisity\nConsultant, Company\nIntern, Institute"
+    "text": "This research project compared supervised and self-supervised machine learning approaches on music and speech classification tasks. Supervised models learn with labeled data, while self-supervised models learn with unlabeled data. The goal was to understand how deep neural networks organize information internally in their intermediate layers, and whether self-supervised models show signs of task specialization (models that show signs of processing speech/music tasks differently imitate how the brain’s auditory cortex works)."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "objectID": "projects/supervised_vs_ssl.html#overview",
+    "href": "projects/supervised_vs_ssl.html#overview",
+    "title": "Supervised vs Self-Supervised Learning on Audio",
     "section": "",
-    "text": "PhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
+    "text": "This research project compared supervised and self-supervised machine learning approaches on music and speech classification tasks. Supervised models learn with labeled data, while self-supervised models learn with unlabeled data. The goal was to understand how deep neural networks organize information internally in their intermediate layers, and whether self-supervised models show signs of task specialization (models that show signs of processing speech/music tasks differently imitate how the brain’s auditory cortex works)."
   },
   {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "objectID": "projects/supervised_vs_ssl.html#methods",
+    "href": "projects/supervised_vs_ssl.html#methods",
+    "title": "Supervised vs Self-Supervised Learning on Audio",
+    "section": "Methods",
+    "text": "Methods\n\nModels: PaSST (supervised) and BYOL-A (self-supervised)\nData: Google Speech Commands dataset, Free Music Archive, DCASE environmental noise\nInput: Log-mel spectrograms (time-frequency audio representations)\nAnalysis: Extracted embeddings from final and intermediate layers (13-14 layers for each model) to visualize how models represent speech vs. music"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "projects/supervised_vs_ssl.html#findings",
+    "href": "projects/supervised_vs_ssl.html#findings",
+    "title": "Supervised vs Self-Supervised Learning on Audio",
+    "section": "Findings",
+    "text": "Findings\n\n\n\nModel\nArchitecture\nAccuracy\nTask Specialization\n\n\n\n\nPaSST\n13 layers\n~80%\nNone detected\n\n\nBYOL-A\n14 layers\n~71%\nStrong in the early layers\n\n\n\nPaSST outperformed BYOL-A on classification accuracy. However, BYOL-A showed significant layer-wise task specialization—early layers clearly separated speech from music processing, while PaSST’s intermediate layers formed no distinct clusters.\nThis suggests that supervised models are more prone to having a higher accuracy since they train on labeled data, while self-supervised models develop representations that may mirror brain processing.\nIntermediate Layer Embeddings (PCA visualization):\n \nLeft: PaSST | Right: BYOL-A\nFinal Layer Embeddings:\n \nLeft: PaSST (unified) | Right: BYOL-A (separated)"
+  },
+  {
+    "objectID": "projects/supervised_vs_ssl.html#tools-used",
+    "href": "projects/supervised_vs_ssl.html#tools-used",
+    "title": "Supervised vs Self-Supervised Learning on Audio",
+    "section": "Tools Used",
+    "text": "Tools Used\nPython • PyTorch • scikit-learn • PCA/ANOVA"
+  },
+  {
+    "objectID": "projects/supervised_vs_ssl.html#links",
+    "href": "projects/supervised_vs_ssl.html#links",
+    "title": "Supervised vs Self-Supervised Learning on Audio",
+    "section": "Links",
+    "text": "Links\nFor more detail on this project, read the repository README and the final report.\n\nGitHub Repository\nResearch Proposal\nFinal Report"
+  },
+  {
+    "objectID": "projects/block.html",
+    "href": "projects/block.html",
+    "title": "Block Museum Calendar Automation",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+    "text": "The Block Museum at Northwestern maintains weekly calendar archives documenting events and attendance. Creating these archives used to involve time-intensive manual editing: exporting Outlook calendars to PDF, manually transcribing event details into a Word template, and correcting data-entry mistakes. This project automated the entire pipeline with a Python application + Power Automate workflow."
   },
   {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
+    "objectID": "projects/block.html#overview",
+    "href": "projects/block.html#overview",
+    "title": "Block Museum Calendar Automation",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+    "text": "The Block Museum at Northwestern maintains weekly calendar archives documenting events and attendance. Creating these archives used to involve time-intensive manual editing: exporting Outlook calendars to PDF, manually transcribing event details into a Word template, and correcting data-entry mistakes. This project automated the entire pipeline with a Python application + Power Automate workflow."
   },
   {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+    "objectID": "projects/block.html#implementation",
+    "href": "projects/block.html#implementation",
+    "title": "Block Museum Calendar Automation",
+    "section": "Implementation",
+    "text": "Implementation\nThe calendar archival undergoes the following steps: 1. Power Automate exports Outlook calendar to customized CSVs weekly and sends an email to employees when it is exported - Both manual and automatic Power Automate flows created for employees’ convenience 2. The Python script (block_converter.exe) reads CSV, cleans data, and generates a formatted Word document - Filters exclude unnecessary events (“CANCELED”, “OOO”, “AUTOMATED” entries) - Events descriptions are validated to ensure they follow the museum’s Required Fields Template - Creates a formatted Word document (python-docx) with proper fonts, spacing, indentation 3. One-click output uploads formatted .docx file to SharePoint"
   },
   {
-    "objectID": "pub-listing.html",
-    "href": "pub-listing.html",
-    "title": "Publications",
+    "objectID": "projects/block.html#tools-used",
+    "href": "projects/block.html#tools-used",
+    "title": "Block Museum Calendar Automation",
+    "section": "Tools Used",
+    "text": "Tools Used\nPython • python-docx • Power Automate • Excel • Outlook • Word • SharePoint"
+  },
+  {
+    "objectID": "projects/block.html#repository-link",
+    "href": "projects/block.html#repository-link",
+    "title": "Block Museum Calendar Automation",
+    "section": "Repository Link",
+    "text": "Repository Link\n\nGitHub Repository"
+  },
+  {
+    "objectID": "projects/ad_selection.html",
+    "href": "projects/ad_selection.html",
+    "title": "Audio Description Selection",
     "section": "",
-    "text": "Note: * corresponding author;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)"
+    "text": "Audio descriptions (AD) narrate visual events in video for blind and low vision audiences. With open-source AD generation models now being available, the challenge is selecting the best candidate description from a pool. This project explored whether lightweight supervised ML models can automatically select high-quality AI-generated ADs using only textual features.\nVideo demo: compares ground truth human-written audio description, “GT AD”, vs. AI-generated audio description, “AI AD”. Shows the lightweight selector model I built working on TV scenes."
   },
   {
-    "objectID": "pub-listing.html#selected-work",
-    "href": "pub-listing.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\n\n\n\nQuantifying the Cost Savings of Global Solar Photovoltaic Supply Chains Helveston, John, Gang He*, and Michael Davidson Oct 26, 2022\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMg=='); return false;\"&gt;2022&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('YXdhcmQ='); return false;\"&gt;award&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aG90LXBhcGVy'); return false;\"&gt;hot-paper&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3VwcGx5LWNoYWlu'); return false;\"&gt;supply-chain&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('dW5pdGVkLXN0YXRlcw=='); return false;\"&gt;united-states&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Y2hpbmE='); return false;\"&gt;china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Z2VybWFueQ=='); return false;\"&gt;germany&lt;/span&gt;\n\n\nHelveston, John, Gang He*, and Michael Davidson. 2022. Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains. Nature 612: 83-87. doi: 10.1038/s41586-022-05316-6.  \n\n\n Preprint  SharedIt  GitHub  Data  \n\n\n Award: IAMC2022 Best Poster Award\n\n\nCoverage: SBU News | GWU News | UCSD News | Nature Research Highlights | E&E News | Foreign Policy | GRID News | PV Magazine | dot.LA | pvbuzz | InnovateLongIsland | Mercom India | China News | Science and Technology Daily\n\n\nInvited presentation: Peking University | Tsinghua University | Harvard University (M.D.) | ITIF (J.H.) | Climate Change Economics Forum\n\n\n\n\nNo matching items\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items"
+    "objectID": "projects/ad_selection.html#overview",
+    "href": "projects/ad_selection.html#overview",
+    "title": "Audio Description Selection",
+    "section": "",
+    "text": "Audio descriptions (AD) narrate visual events in video for blind and low vision audiences. With open-source AD generation models now being available, the challenge is selecting the best candidate description from a pool. This project explored whether lightweight supervised ML models can automatically select high-quality AI-generated ADs using only textual features.\nVideo demo: compares ground truth human-written audio description, “GT AD”, vs. AI-generated audio description, “AI AD”. Shows the lightweight selector model I built working on TV scenes."
   },
   {
-    "objectID": "pub-listing.html#other-peer-reviewed-journal-papers",
-    "href": "pub-listing.html#other-peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Other Peer-reviewed Journal Papers",
-    "text": "Other Peer-reviewed Journal Papers\n\n\n\nLong-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint Zhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong Dec 20, 2021\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMQ=='); return false;\"&gt;2021&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('ZW5lcmd5LW5leHVz'); return false;\"&gt;energy-nexus&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2F0ZXI='); return false;\"&gt;water&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n\nZhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong. 2021. Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint. Journal of Cleaner Production 329: 129765. doi: 10.1016/j.jclepro.2021.129765.\n\n\n PDF  GitHub  Supplemental  \n\n\n\n\nNo matching items\n\nPublications – Quarto Academic Publications – Quarto Academic Publications – Quarto Academic Quarto Academic Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
+    "objectID": "projects/ad_selection.html#methods",
+    "href": "projects/ad_selection.html#methods",
+    "title": "Audio Description Selection",
+    "section": "Methods",
+    "text": "Methods\n\nGenerated 5 candidate ADs per scene across 2,983 TV scenes (Friends, The Big Bang Theory) using Qwen2-VL-7B (VLM) and LLaMA-3-8B (LLM) on a HPCC\nExtracted 9 textual features from each candidate: token count, action verb density, pronoun ratios, type-token ratio, consensus score, etc.\nTrained classification and regression models (logistic regression, random forest, XGBoost) with 5-fold cross-validation\nEvaluated two quality metrics as response variables: embedding similarity (Q1) and action score matching (Q2)"
   },
   {
-    "objectID": "pub-listing.html#peer-reviewed-journal-papers",
-    "href": "pub-listing.html#peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Peer-reviewed Journal Papers",
-    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Quarto Academic Publications – Quarto Academic Publications – Quarto Academic Quarto Academic Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
+    "objectID": "projects/ad_selection.html#results",
+    "href": "projects/ad_selection.html#results",
+    "title": "Audio Description Selection",
+    "section": "Results",
+    "text": "Results\n\n\n\nModel\nQ1 Accuracy\nQ2 Accuracy\n\n\n\n\nBaseline (random selection)\n20.1%\n20.1%\n\n\nLogistic Regression\n25.0%\n33.7% ✓\n\n\nRandom Forest\n23.8%\n31.0%\n\n\nXGBoost\n25.5%\n31.8%\n\n\n\nLogistic regression achieved 33.7% accuracy on action score selection, which is a 13.6 percentage point improvement over a baseline of random selection. The most important features were action verb count, pronoun-to-noun ratio, and consensus score. More details about these features are available in the code repository."
+  },
+  {
+    "objectID": "projects/ad_selection.html#tools-used",
+    "href": "projects/ad_selection.html#tools-used",
+    "title": "Audio Description Selection",
+    "section": "Tools Used",
+    "text": "Tools Used\nPython • HPCC + Slurm • spaCy • sentence-transformers • scikit-learn"
+  },
+  {
+    "objectID": "projects/ad_selection.html#links",
+    "href": "projects/ad_selection.html#links",
+    "title": "Audio Description Selection",
+    "section": "Links",
+    "text": "Links\n\nGitHub Repository\nResearch Proposal\nFinal Report"
   }
 ]

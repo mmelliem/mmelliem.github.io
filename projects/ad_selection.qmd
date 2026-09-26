@@ -1,0 +1,39 @@
+---
+title: "Audio Description Selection"
+---
+
+## Overview
+
+Audio descriptions (AD) narrate visual events in video for blind and low vision audiences. With open-source AD generation models now being available, the challenge is *selecting* the best candidate description from a pool. This project explored whether lightweight supervised ML models can automatically select high-quality AI-generated ADs using only textual features.
+
+[Video demo](../assets/ad_selection/demo_vid.mp4): compares ground truth human-written audio description, "GT AD", vs. AI-generated audio description, "AI AD". Shows the lightweight selector model I built working on TV scenes.
+
+## Methods
+
+- Generated 5 candidate ADs per scene across 2,983 TV scenes (Friends, The Big Bang Theory) using Qwen2-VL-7B (VLM) and LLaMA-3-8B (LLM) on a HPCC
+- Extracted 9 textual features from each candidate: token count, action verb density, pronoun ratios, type-token ratio, consensus score, etc.
+- Trained classification and regression models (logistic regression, random forest, XGBoost) with 5-fold cross-validation
+- Evaluated two quality metrics as response variables: embedding similarity (Q1) and action score matching (Q2)
+
+## Results
+
+| Model | Q1 Accuracy | Q2 Accuracy |
+|-------|-------------|-------------|
+| Baseline (random selection) | 20.1% | 20.1% |
+| Logistic Regression | 25.0% | 33.7% ✓ |
+| Random Forest | 23.8% | 31.0% |
+| XGBoost | 25.5% | 31.8% |
+
+Logistic regression achieved 33.7% accuracy on action score selection, which is a 13.6 percentage point improvement over a baseline of random selection. The most important features were action verb count, pronoun-to-noun ratio, and consensus score. More details about these features are available in the code repository.
+
+
+## Tools Used
+
+Python • HPCC + Slurm • spaCy • sentence-transformers • scikit-learn
+
+## Links
+
+- [GitHub Repository](https://github.com/mmelliem/AD_selection)
+- [Research Proposal](../assets/ad_selection/proposal.pdf)
+- [Final Report](../assets/ad_selection/final_report.pdf)
+
