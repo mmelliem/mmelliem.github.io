@@ -13,7 +13,7 @@ toc: false
 
 Data science student at a Northwestern University. I build data tools and models. Interested in applied ML, analytics, and automation.
 
-[GitHub](https://github.com/mmelliem) • [Email](mailto:melaniemedina2028@u.northwestern.edu)
+[GitHub](https://github.com/mmelliem) • <a href="https://linkedin.com/in/melaniemmedina" rel="noreferrer" target="_blank">LinkedIn</a> • [Email](mailto:melaniemedina2028@u.northwestern.edu)
 
 </div>
 
